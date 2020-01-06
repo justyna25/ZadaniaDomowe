@@ -1,0 +1,29 @@
+package com.company.ObiektowoscPraceDomowe.zad1;
+
+
+public class Main {
+
+
+    public void wypiszDaneSali() {
+        // wszystkie dane mam w mainie, gdy wrzucam je tutaj nie mogę wyświetlić ich na konsoli
+
+
+    }
+
+    public static void main(String[] args) {
+
+
+        SalaLekcyjna salaLekcyjna1 = new SalaLekcyjna(1, "Sala nr.1");
+
+        SalaLekcyjna salaLekcyjna2 = new SalaLekcyjna(2, "Sala nr.2");
+        SalaLekcyjna salaLekcyjna3 = new SalaLekcyjna(3, "Sala nr.3");
+
+
+        System.out.println(salaLekcyjna1);
+        System.out.println(salaLekcyjna2);
+        System.out.println(salaLekcyjna3);
+
+    }
+
+
+}
