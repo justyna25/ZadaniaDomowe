@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="VarArgs" type="MavenConfig" />
       <mapping pattern="tresc" type="PLAIN_TEXT" />
+      <mapping pattern="hibernate" type="PLAIN_TEXT" />
       <mapping pattern="kk" type="XML" />
     </extensionMap>
   </component>
